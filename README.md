@@ -4,11 +4,11 @@ Projeto Crypto-busca. Potencialize seus aplicativos com os dados criptográficos
 
 ### O desafio
 
-- Consumir dados de uma API de criptomoedas
+- Consumir dados de uma API de criptomoedas.
 
-- Como: Nome, imagem, preço, volume, etc.
+- Dados: Nome, imagem, preço, volume, etc.
 
-- Filtrar buscas por moedas através de um formulário
+- Filtrar buscas por moedas através de um formulário.
 
 ### Links
 
