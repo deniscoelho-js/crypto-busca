@@ -1,3 +1,5 @@
+![bitcoins](https://user-images.githubusercontent.com/83840866/132013019-37a5f804-3354-4021-8dba-06276434a0d1.gif)
+
 # Crypto Busca
 
 Projeto Crypto-busca. Potencialize seus aplicativos com os dados criptográficos de origem independente, como preços ao vivo, volume de negociação, volumes de câmbio, pares de negociação, dados históricos, dados de endereço de contrato, categorias de criptografia, derivados de criptografia, imagens e muito mais.
